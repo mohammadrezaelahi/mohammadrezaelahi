@@ -6,4 +6,4 @@
 
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadrezaelahi&hide=contribs,stars&count_private=true&show_icons=true&include_all_commits=true&custom_title=My%20Account%20Stats"  alt=""/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mohammadrezaelahi&hide=contribs,stars&count_private=true&show_icons=true&include_all_commits=true&custom_title=My%20Account%20Stats"  alt=""/>
