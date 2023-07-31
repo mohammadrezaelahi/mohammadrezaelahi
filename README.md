@@ -16,6 +16,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=mohammadrezaelahi&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mohammadrezaelahi&icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mohammadrezaelahi&icon=5&color=12)](https://github.com/mohammadrezaelahi)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
