@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrezaelahi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohammadrezaelahi&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+[![](https://github-profile-trophy.vercel.app/?username=mohammadrezaelahi&theme=flat&no-frame=false&no-bg=false&margin-w=4)](https://github.com/mohammadrezaelahi)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohammadrezaelahi&icon=5&color=12)](https://github.com/mohammadrezaelahi)
